@@ -1,0 +1,18 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# VS Code (optional)
+.vscode/settings.json
+
+# Temporary files
+output.txt
+
+# OS files
+.DS_Store
+Thumbs.db
