@@ -7,6 +7,7 @@ int main()
     cin >> age;
     if(age>=18){
         cout<<"Adult";
+        
     }
     else{
         cout<<"Bachha ho abhi";
